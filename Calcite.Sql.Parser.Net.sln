@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcite.Sql.Parser.Net", "Calcite.Sql.Parser.Net\Calcite.Sql.Parser.Net.csproj", "{3832EA14-5596-4845-AB63-8B3520C3D0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3832EA14-5596-4845-AB63-8B3520C3D0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3832EA14-5596-4845-AB63-8B3520C3D0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3832EA14-5596-4845-AB63-8B3520C3D0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3832EA14-5596-4845-AB63-8B3520C3D0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1D84388-4103-4FB5-9A87-8C8B3F495133}
+	EndGlobalSection
+EndGlobal
