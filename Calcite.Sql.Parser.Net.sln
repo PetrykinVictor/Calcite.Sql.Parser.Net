@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcite.Sql.Parser.Net", "Calcite.Sql.Parser.Net\Calcite.Sql.Parser.Net.csproj", "{3832EA14-5596-4845-AB63-8B3520C3D0F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcite.Sql.Parser.Net.Tests", "Calcite.Sql.Parser.Net.Tests\Calcite.Sql.Parser.Net.Tests.csproj", "{84FBC28A-A885-48A3-997D-D2B406DCD221}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3832EA14-5596-4845-AB63-8B3520C3D0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3832EA14-5596-4845-AB63-8B3520C3D0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3832EA14-5596-4845-AB63-8B3520C3D0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FBC28A-A885-48A3-997D-D2B406DCD221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FBC28A-A885-48A3-997D-D2B406DCD221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FBC28A-A885-48A3-997D-D2B406DCD221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FBC28A-A885-48A3-997D-D2B406DCD221}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
